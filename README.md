@@ -1,6 +1,7 @@
-﻿Multi-user chat system
- Jigme Lobsang Lepcha 2016045
- Aamir Tufail Ahmad 2016001
+Multi-user chat system
+
+Jigme Lobsang Lepcha 2016045
+Aamir Tufail Ahmad 2016001
 
 
 
